@@ -49,7 +49,7 @@ tags: [Linux]
 
 ## 虚拟机linux网络配置问题
 
-注：虚拟机的IP段与宿主机的IP段不能一样，如宿主机IP为192.168.100.x，则虚拟机IP段不能为192.168.100.x。
+注：虚拟机的IP段与宿主机的IP段不能一样，如宿主机IP为192.168.100.x，则虚拟机IP段不能为192.168.100.x。先关闭虚拟机防火墙：`service iptables stop`
 
 1. `vi /etc/sysconfig/network-scripts/ifcfg-eth0`=>配置网络 参考： ![alt ](/uploads/images/linux-network-1.png)。 
 2. `vi /etc/resolv.conf`->定制DNS服务器 参考： ![alt ](/uploads/images/linux-network-2.png)。
