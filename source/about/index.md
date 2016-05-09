@@ -53,9 +53,9 @@ categories: [about]
 # 技能
 
 - 精通Html/Css/Javascript，熟练使用jQuery/Ajax/Zepto/Html5/Css3；
-- 熟悉前端框架AngularJs/Bootstrap，熟悉js模块化(Requirejs/Seajs)，熟悉MVC/MVVM架构，熟悉自动化构建工具Grunt；
-- 熟悉Php及其框架如CodeIgniter，了解Nodejs及Npm等相关命令行工具；
-- 了解数据库技术Mysql/Mongodb/Redis；
+- 了解前端框架AngularJs/Bootstrap，了解js模块化(Requirejs/Seajs)，熟悉MVC/MVVM架构，了解自动化构建工具Grunt；
+- 了解Php及其框架如CodeIgniter，了解Nodejs及Npm等相关命令行工具；
+- 了解数据库技术Mysql/Mongodb；
 - 熟练使用版本管理工具Svn/Git；
 - 熟悉W3C标准及规范、前端性能、可维护性、浏览器兼容性；
 - 有良好的团队协作精神、高质量意识，乐观积极。
